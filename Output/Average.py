@@ -2,7 +2,7 @@ import statistics
 from os import path
 
 
-text_output = "Docker_FaceOut.txt"
+text_output = "singularity_YoloOut.txt"
 
 
 
